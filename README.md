@@ -1,0 +1,2 @@
+# gnome.depricate
+depricate.gnome
